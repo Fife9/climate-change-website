@@ -1,0 +1,43 @@
+.content {
+  border: 3px solid #666;
+  font-family: sans-serif;
+}
+.navBar {
+  border: 3px solid #ccc; position: sticky;
+  text-decoration: none;
+  text-align: center;
+}
+.navBar li {
+  display: inline-block;
+}
+.navBar ul {
+  display: flex; justify-content: space-between;
+}
+body {
+  background-color: lightblue
+}
+h2 {
+  text-align: center;
+  color: Red;
+}
+.firstParagraph img{
+  position:relative;
+  left: 1100px;
+  bottom: 50px;
+}
+.firstParagraph p{
+  padding-left: 70px;
+  position: relative;
+  top: 90px;
+}
+.content2 {
+  border: 3px solid #666; position:
+}
+.firstParagraph li{
+  padding-left: 600px;
+  display: inline-block;
+}
+.secondParagraph {
+  padding-top: 20px;
+  padding-left: 600px;
+}
